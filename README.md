@@ -4,7 +4,7 @@ This mod project only works with World of Warships (PC)
 **How to use**
 1. Download the latest file at [Release][Releaselink]
 
-[Releaselink]: https://google.com "Go Release"
+[Releaselink]: https://github.com/UntitledWorld/WoWS-Mod-Arashi/releases "Go Release"
 
 2. Unzip the file and copy both 'content'& 'gui' folder.
 
