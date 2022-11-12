@@ -14,4 +14,6 @@ Example location of your res_mods folder:
 ```
 C:\Game\World_of_Warships\bin\6223574\res_mods
 ```
-*Folder inside of 'bin' may vary each updates. Paste mod folders into newest folder.*
+*Folder inside of 'bin' may vary each updates. Paste mod folders into newest(or the highest number) folder.
+
+※Not tested on Lesta/CN/Steam Client.*
