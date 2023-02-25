@@ -8,7 +8,7 @@ This mod project only works with World of Warships (PC)
 
 2. Unzip the file and copy both 'content'& 'gui' folder.
 
-3. Move to your game location and paste them at your res_mods folder
+3. Go to your game location and paste at 'res_mods' folder
 
 Example location of your res_mods folder:
 ```
