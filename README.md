@@ -6,7 +6,7 @@ This mod project only works with World of Warships (PC)
 
 [Releaselink]: https://github.com/UntitledWorld/WoWS-Mod-Arashi/releases "Go Release"
 
-2. Unzip the file and copy both 'content'& 'gui' folder.
+2. Unzip the file and copy both 'content' and 'gui' folder.
 
 3. Go to your game location and paste at 'res_mods' folder
 
