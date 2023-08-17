@@ -1,5 +1,5 @@
 # WoWS-Mod-Arashi
-This mod project only works with World of Warships (PC)
+This mod only works with PC version of World of Warships.
 
 **How to use**
 1. Download the latest files at [Release][Releaselink]
@@ -16,4 +16,4 @@ C:\Game\World_of_Warships\bin\6223574\res_mods
 ```
 *Folder inside of 'bin' may vary each updates. Paste mod folders into newest(or the highest number) folder.*
 
-*※Not tested on Lesta/CN/Steam Client.*
+*※Mod might not working properly on Lesta/CN/Steam Client.*
